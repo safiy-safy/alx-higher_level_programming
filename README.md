@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 alx-higher_level_programming
 Tasks
 0. Run Python file
@@ -113,3 +114,6 @@ The output filename has to be $PYFILEc (ex: export PYFILE=my_main.py => output f
 #advanced
 Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
 
+=======
+# alx-higher_level_programming
+>>>>>>> 48f035115b78d1d53f05d8a1d5e1bb22123923f1
